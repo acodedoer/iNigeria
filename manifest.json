@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "iNigeria",
+  "short_name": "iNigeria",
+  "version": "com.tinqe.inigeria",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
